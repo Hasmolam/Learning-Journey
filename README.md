@@ -1,16 +1,28 @@
-# Patika.dev Assignments
+# Learning Journey
 
-Bu repo, Patika.dev platformundaki eğitimlerim boyunca yaptığım tüm ödevleri, projeleri ve alıştırmaları içerir.  
-Amaç, öğrenme sürecimi belgelemek ve gerektiğinde tekrar edebileceğim bir kaynak oluşturmaktır.
+Bu repo, aldığım eğitimler boyunca yaptığım tüm ödevleri, projeleri ve alıştırmaları içerir.  
+Amacı, öğrenme sürecimi belgelemek ve gerektiğinde tekrar edebileceğim bir kaynak oluşturmaktır.
+
+---
 
 ## İçerik
-- Her klasör, ilgili ders veya konu başlığına göre adlandırılmıştır.
+- Her klasör, ilgili eğitim ve konu başlığına göre adlandırılmıştır.
 - Kodlar ve dosyalar, verilen ödev talimatlarına uygun şekilde hazırlanmıştır.
 
-## Konular
+---
+
+## Eğitimler
+
+### BTK Akademi
+- Sıfırdan İleri Seviye Python Programlama
+
+### Patika.dev
 - SQL
 
+---
+
 ## Kullanım
+
 1. Repoyu klonla:
    ```bash
-   git clone https://github.com/Hasmolam/patika-dev-assignments.git
+   git clone https://github.com/Hasmolam/learning-journey.git
