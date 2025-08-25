@@ -18,6 +18,7 @@ Amacı, öğrenme sürecimi belgelemek ve gerektiğinde tekrar edebileceğim bir
 
 ### Patika.dev
 - SQL
+- HTML
 
 ---
 
