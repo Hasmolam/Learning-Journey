@@ -14,11 +14,12 @@ Amacı, öğrenme sürecimi belgelemek ve gerektiğinde tekrar edebileceğim bir
 ## Eğitimler
 
 ### BTK Akademi
-- Sıfırdan İleri Seviye Python Programlama
+- [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
 
 ### Patika.dev
-- SQL
-- HTML
+- [SQL](https://academy.patika.dev/courses/sql) ✅
+- [HTML](https://academy.patika.dev/courses/html) ✅
+- [CSS](https://academy.patika.dev/courses/css)
 
 ---
 

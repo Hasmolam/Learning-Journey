@@ -1,0 +1,70 @@
+.main-h {
+    text-align: center;
+    color: #D6A99D;
+    padding: 0;
+}
+
+body {
+    background-color: #FBF3D5;
+}
+
+nav {
+    text-align: center;
+    padding-right: 4%;
+}
+
+.nav-a {
+    color: #9CAFAA;
+    padding-inline-start: 5%;
+}
+
+.submain-h {
+    padding-top: 5%;
+    text-align: center;
+}
+
+article {
+    color: black;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+
+.sub-h {
+    text-align: center;
+    padding-top: 5%;
+}
+
+div.lists {
+    text-align: center;
+}
+
+.ol-1 {
+    display: flex;
+    gap: 10%;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.urunler {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.urun {
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    background: #f9f9f9;
+}
+
+.urun img {
+  width: 100%;         
+  border-radius: 5px;
+}
