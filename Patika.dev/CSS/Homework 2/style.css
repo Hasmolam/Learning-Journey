@@ -1,0 +1,137 @@
+img.logo {
+    display: block;
+    margin: 250px auto 0;
+}
+
+.area {
+    width: 1200px;
+    height: auto;
+    display: block;
+    background-color: red;
+    margin: 0 auto;
+}
+/***********TOP************/
+.top-area {
+    background-color: rgba(237,237,237,255);
+    width: 1200px;
+    height: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0px;
+}
+
+.large-width-area {
+    width: 500px;
+    height: 18px;
+    resize: none;
+}
+
+.gbttn {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 3px;
+}
+
+.gbttn1{
+    margin: 0 0 0 25%;
+    border-radius: 0;
+}
+.gbttn2 {
+    margin: 0 25% 0 0;
+    border-radius: 0;
+}
+
+
+.google-h5 {
+    padding: 0;
+    margin: 5px 0 0 0;
+    font: caption;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+
+
+/***********BOTTOM************/
+
+.bottom-area {
+    background-color: aqua;
+    width: 1200px;
+    height: auto;
+    display: flex;
+}
+
+.lbottom {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(97,236,218,255);
+    width: 39%;
+    text-align: center;
+    padding: 2px;
+    gap: 2px;
+    font-size: 18px;
+}
+
+.lhead {
+    margin: 10px 0 0 0;
+    font: caption;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.mbottom {
+    background-color: rgba(87,209,193,255);
+    width: 21%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 5px;
+    gap: 3px;
+}
+
+.rbottom {
+    background-color: rgba(77,183,169,255);
+    width: 40%;
+    height: auto;
+    display: flex;
+    flex-direction: column;  /* dikey hizala */
+    align-items: center;     /* yatay ortala */
+    gap: 2px;               /* elemanlar arası boşluk */
+    padding: 10px;           /* iç boşluk */
+}
+
+.subs-button {
+    width: 100px;
+    height: 18px;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+}
+
+.bottom-text-area {
+    width: 180px;
+    height: 10px;
+    margin: 0;
+    resize: none;
+}
+
+.area .rbottom .h6-bot h6 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font: caption;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    
+}
+
+.one-row {
+    flex-direction: row;
+}
+
+.copyright {
+    text-align: center;
+}
