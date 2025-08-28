@@ -19,7 +19,8 @@ Amacı, öğrenme sürecimi belgelemek ve gerektiğinde tekrar edebileceğim bir
 ### Patika.dev
 - [SQL](https://academy.patika.dev/courses/sql) ✅
 - [HTML](https://academy.patika.dev/courses/html) ✅
-- [CSS](https://academy.patika.dev/courses/css)
+- [CSS](https://academy.patika.dev/courses/css) ✅
+- [BOOTSTRAP](https://academy.patika.dev/courses/bootstrap)
 
 ---
 
