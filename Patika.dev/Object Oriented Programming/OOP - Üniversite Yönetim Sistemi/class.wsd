@@ -1,0 +1,26 @@
+@startuml ÜniversiteYonetimSistemi
+' Üniversite ve ilişkili sınıflar
+class University
+class Department
+class Classroom
+class Office
+
+' Üniversite ile Department ve Classroom ilişkisi
+University "1" --> "0..*" Department
+University "1" --> "0..*" Classroom
+
+' Department ile Office ilişkisi
+Department "1" --> "0..*" Office
+
+' Çalışanlar ve alt sınıfları
+class Person
+class Staff
+class Professor
+
+' Ofis ile Person ilişkisi
+Office "1" --> "0..*" Person
+
+' Inheritance (alt sınıf) ilişkileri
+Person <|-- Staff
+Person <|-- Professor
+@enduml

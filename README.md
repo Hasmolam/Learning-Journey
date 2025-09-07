@@ -21,6 +21,7 @@ Amacı, öğrenme sürecimi belgelemek ve gerektiğinde tekrar edebileceğim bir
 - [HTML](https://academy.patika.dev/courses/html) ✅
 - [CSS](https://academy.patika.dev/courses/css) ✅
 - [BOOTSTRAP](https://academy.patika.dev/courses/bootstrap)
+- [Object Oriented Programming](https://academy.patika.dev/courses/oop)
 
 ---
 
