@@ -1,0 +1,29 @@
+btk_akademi:
+  - name: Sıfırdan İleri Seviye Python Programlama
+    url: https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877
+    progress: 39
+
+patika_dev:
+  - name: SQL
+    url: https://academy.patika.dev/courses/sql
+    progress: 100
+  - name: HTML
+    url: https://academy.patika.dev/courses/html
+    progress: 100
+  - name: CSS
+    url: https://academy.patika.dev/courses/css
+    progress: 100
+  - name: BOOTSTRAP
+    url: https://academy.patika.dev/courses/bootstrap
+    progress: 56
+  - name: Object Oriented Programming
+    url: https://academy.patika.dev/courses/oop
+    progress: 38
+
+youtube:
+  - name: Object Oriented Programming
+    url: https://youtube.com/playlist?list=PLQVXoXFVVtp306cqgKyC8NoxCmHIuWVBK&si=txl73QX-YcVrV7jk
+    progress: 31
+  - name: C# Programlama Eğitimi
+    url: https://youtube.com/playlist?list=PLQVXoXFVVtp3e_urGZcMNAHx2Eo4Rm5Xk&si=8OLEKC6uTMr-mJTo
+    progress: 15

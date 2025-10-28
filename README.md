@@ -14,15 +14,30 @@ Amacı, öğrenme sürecimi belgelemek ve gerektiğinde tekrar edebileceğim bir
 ## Eğitimler
 
 ### BTK Akademi
-- [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
-
+<!-- btk_akademi_start -->
+- [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)  
+  İlerleme: ███░░░░░░░ 39%
+<!-- btk_akademi_end -->
 ### Patika.dev
-- [SQL](https://academy.patika.dev/courses/sql) ✅
-- [HTML](https://academy.patika.dev/courses/html) ✅
-- [CSS](https://academy.patika.dev/courses/css) ✅
-- [BOOTSTRAP](https://academy.patika.dev/courses/bootstrap)
-- [Object Oriented Programming](https://academy.patika.dev/courses/oop)
-
+<!-- patika_dev_start -->
+- [SQL](https://academy.patika.dev/courses/sql)  
+  İlerleme: ██████████ 100% ✅
+- [HTML](https://academy.patika.dev/courses/html)  
+  İlerleme: ██████████ 100% ✅
+- [CSS](https://academy.patika.dev/courses/css)  
+  İlerleme: ██████████ 100% ✅
+- [BOOTSTRAP](https://academy.patika.dev/courses/bootstrap)  
+  İlerleme: █████░░░░░ 56%
+- [Object Oriented Programming](https://academy.patika.dev/courses/oop)  
+  İlerleme: ███░░░░░░░ 38%
+<!-- patika_dev_end -->
+### Youtube
+<!-- youtube_start -->
+- [Object Oriented Programming](https://youtube.com/playlist?list=PLQVXoXFVVtp306cqgKyC8NoxCmHIuWVBK&si=txl73QX-YcVrV7jk)  
+  İlerleme: ███░░░░░░░ 31%
+- [C# Programlama Eğitimi](https://youtube.com/playlist?list=PLQVXoXFVVtp3e_urGZcMNAHx2Eo4Rm5Xk&si=8OLEKC6uTMr-mJTo)  
+  İlerleme: █░░░░░░░░░ 15%
+<!-- youtube_end -->
 ---
 
 ## Kullanım
