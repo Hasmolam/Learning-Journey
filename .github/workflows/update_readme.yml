@@ -6,6 +6,8 @@ on:
       - main  # veya 'master'
     paths:
       - 'progress.yml' # Sadece progress.yml değiştiğinde çalışsın
+permissions:
+  contents: write
 
 jobs:
   update:
