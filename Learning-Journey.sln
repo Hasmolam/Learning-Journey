@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Youtube", "Youtube", "{7573E4A4-6689-7319-7328-FBF17DC2301E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# Programlama Eğitimi", "C# Programlama Eğitimi", "{45FDF199-78D0-4F99-ABC1-A5C70BC706DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example1", "Youtube\C# Programlama Eğitimi\example1\example1.csproj", "{E280DA3F-2B8D-EB99-A205-854690BCF1FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E280DA3F-2B8D-EB99-A205-854690BCF1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E280DA3F-2B8D-EB99-A205-854690BCF1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E280DA3F-2B8D-EB99-A205-854690BCF1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E280DA3F-2B8D-EB99-A205-854690BCF1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45FDF199-78D0-4F99-ABC1-A5C70BC706DA} = {7573E4A4-6689-7319-7328-FBF17DC2301E}
+		{E280DA3F-2B8D-EB99-A205-854690BCF1FE} = {45FDF199-78D0-4F99-ABC1-A5C70BC706DA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDDC5D96-6AB9-4E2F-ACDB-D539F91D90AB}
+	EndGlobalSection
+EndGlobal
