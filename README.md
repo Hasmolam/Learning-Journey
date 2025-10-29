@@ -36,7 +36,7 @@ Amacı, öğrenme sürecimi belgelemek ve gerektiğinde tekrar edebileceğim bir
 - [Object Oriented Programming](https://youtube.com/playlist?list=PLQVXoXFVVtp306cqgKyC8NoxCmHIuWVBK&si=txl73QX-YcVrV7jk)  
   İlerleme: ███░░░░░░░ 31%
 - [C# Programlama Eğitimi](https://youtube.com/playlist?list=PLQVXoXFVVtp3e_urGZcMNAHx2Eo4Rm5Xk&si=8OLEKC6uTMr-mJTo)  
-  İlerleme: █░░░░░░░░░ 16%
+  İlerleme: ██░░░░░░░░ 29%
 <!-- youtube_end -->
 ---
 
