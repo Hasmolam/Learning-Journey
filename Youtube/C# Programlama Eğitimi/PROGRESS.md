@@ -393,91 +393,91 @@ Not: Bu dosya ders bazında ayrıntılı kontrol içindir. Üst düzey özet ve 
 - [x] 13.26 ► Insert — 04 min
 - [x] 13.27 ► Remove — 03 min
 - [x] 13.28 ► Replace — 02 min
-- [ ] 13.29 ► Split — 04 min
-- [ ] 13.30 ► Substring — 05 min
-- [ ] 13.31 ► ToLower — 01 min
-- [ ] 13.32 ► ToUpper — 01 min
-- [ ] 13.33 ► Trim — 05 min
-- [ ] 13.34 ► TrimEnd — 01 min
-- [ ] 13.35 ► TrimStart — 01 min
-- [ ] 13.36 Örnek Çalışmalar
-- [ ] 13.37 ► Adımızın İlkten 3. Soyadımızın Sondan 5. Karakterini Getirelim — 07 min
-- [ ] 13.38 ► Girilen Metnin İçerisinde Kaç Adet “n” Karakterinin Geçtiğini Hesaplayalım — 04 min
-- [ ] 13.39 ► Girilen Metindeki Kelime Sayısını Hesaplayalım — 10 min
-- [ ] 13.40 Özet — 05 min
+- [x] 13.29 ► Split — 04 min
+- [x] 13.30 ► Substring — 05 min
+- [x] 13.31 ► ToLower — 01 min
+- [x] 13.32 ► ToUpper — 01 min
+- [x] 13.33 ► Trim — 05 min
+- [x] 13.34 ► TrimEnd — 01 min
+- [x] 13.35 ► TrimStart — 01 min
+- [x] 13.36 Örnek Çalışmalar
+- [x] 13.37 ► Adımızın İlkten 3. Soyadımızın Sondan 5. Karakterini Getirelim — 07 min
+- [x] 13.38 ► Girilen Metnin İçerisinde Kaç Adet “n” Karakterinin Geçtiğini Hesaplayalım — 04 min
+- [x] 13.39 ► Girilen Metindeki Kelime Sayısını Hesaplayalım — 10 min
+- [x] 13.40 Özet — 05 min
 
 ## 14. Dizilerde Verisel Performans (13)
-- [ ] 14.1 Dizilerde Verisel Performans Nedir? — 11 min
-- [ ] 14.2 ► Pratiksel İnceleme — 06 min
-- [ ] 14.3 ArraySegment Türü Nedir? Nasıl Kullanılır?
-- [ ] 14.4 ► ArraySegment Nedir? — 04 min
-- [ ] 14.5 ► ArraySegment İle Dizinin Belli Bir Alanını Referans Etmek — 09 min
-- [ ] 14.6 ► ArraySegment Slicing(Dilimleme) Özelliği — 05 min
-- [ ] 14.7 StringSegment Türü Nedir? Nasıl Kullanılır?
-- [ ] 14.8 ► StringSegment Nedir? — 04 min
-- [ ] 14.9 ► StringSegment İle Dizinin Belli Bir Alanını Referans Etmek — 07 min
-- [ ] 14.10 ► StringBuilder Sınıfı — 06 min
-- [ ] 14.11 Span, ReadOnlySpan, Memory ve ReadOnlyMemory Türleri Nedir? Nasıl Kullanılır? — 11 min
-- [ ] 14.12 ► Pratiksel İnceleme — 07 min
-- [ ] 14.13 Özet
+- [x] 14.1 Dizilerde Verisel Performans Nedir? — 11 min
+- [x] 14.2 ► Pratiksel İnceleme — 06 min
+- [x] 14.3 ArraySegment Türü Nedir? Nasıl Kullanılır?
+- [x] 14.4 ► ArraySegment Nedir? — 04 min
+- [x] 14.5 ► ArraySegment İle Dizinin Belli Bir Alanını Referans Etmek — 09 min
+- [x] 14.6 ► ArraySegment Slicing(Dilimleme) Özelliği — 05 min
+- [x] 14.7 StringSegment Türü Nedir? Nasıl Kullanılır?
+- [x] 14.8 ► StringSegment Nedir? — 04 min
+- [x] 14.9 ► StringSegment İle Dizinin Belli Bir Alanını Referans Etmek — 07 min
+- [x] 14.10 ► StringBuilder Sınıfı — 06 min
+- [x] 14.11 Span, ReadOnlySpan, Memory ve ReadOnlyMemory Türleri Nedir? Nasıl Kullanılır? — 11 min
+- [x] 14.12 ► Pratiksel İnceleme — 07 min
+- [x] 14.13 Özet
 
 ## 15. Regular Expressions (Düzenli İfadeler) (12)
-- [ ] 15.1 Regular Expressions(Düzenli İfadelerde) Neyin Nesi? — 12 min
-- [ ] 15.2 Regular Expressions Operatörleri
-- [ ] 15.3 ► ^ Operatörü, Regex Sınıfının Kullanımı — 07 min
-- [ ] 15.4 ►  Operatörü — 10 min
-- [ ] 15.5 ► + Operatörü — 06 min
-- [ ] 15.6 ► | (veya) Operatörü — 02 min
-- [ ] 15.7 ► {n} Operatörü — 03 min
-- [ ] 15.8 ► ? Operatörü — 02 min
-- [ ] 15.9 ► . Operatörü — 02 min
-- [ ] 15.10 ► b – B Operatörleri — 04 min
-- [ ] 15.11 ► [n] Operatörleri — 04 min
-- [ ] 15.12 Match Sınıfı Özellikleri — 03 min
+- [x] 15.1 Regular Expressions(Düzenli İfadelerde) Neyin Nesi? — 12 min
+- [x] 15.2 Regular Expressions Operatörleri
+- [x] 15.3 ► ^ Operatörü, Regex Sınıfının Kullanımı — 07 min
+- [x] 15.4 ►  Operatörü — 10 min
+- [x] 15.5 ► + Operatörü — 06 min
+- [x] 15.6 ► | (veya) Operatörü — 02 min
+- [x] 15.7 ► {n} Operatörü — 03 min
+- [x] 15.8 ► ? Operatörü — 02 min
+- [x] 15.9 ► . Operatörü — 02 min
+- [x] 15.10 ► b – B Operatörleri — 04 min
+- [x] 15.11 ► [n] Operatörleri — 04 min
+- [x] 15.12 Match Sınıfı Özellikleri — 03 min
 
 ## 16. Koleksiyon Yapıları (7)
-- [ ] 16.1 Koleksiyonlar Nelerdir? Diziler Varken Neden Koleksiyon Yapıları İnşa Edilmiştir? — 12 min
-- [ ] 16.2 ArrayList Koleksiyonu — 03 min
-- [ ] 16.3 ArrayList Koleksiyonu Tanımlama — 04 min
-- [ ] 16.4 ArrayList Tanımlanmış Koleksiyona Değer Atama — 03 min
-- [ ] 16.5 ArrayList Tanımlanmış Koleksiyondan Değer Okuma — 03 min
-- [ ] 16.6 ArrayList Boxing – Unboxing Durumlarından Dolayı Sınırlılıklar — 10 min
-- [ ] 16.7 ArrayList Collection Initializers(Koleksiyon İlklendirici) — 05 min
+- [x] 16.1 Koleksiyonlar Nelerdir? Diziler Varken Neden Koleksiyon Yapıları İnşa Edilmiştir? — 12 min
+- [x] 16.2 ArrayList Koleksiyonu — 03 min
+- [x] 16.3 ArrayList Koleksiyonu Tanımlama — 04 min
+- [x] 16.4 ArrayList Tanımlanmış Koleksiyona Değer Atama — 03 min
+- [x] 16.5 ArrayList Tanımlanmış Koleksiyondan Değer Okuma — 03 min
+- [x] 16.6 ArrayList Boxing – Unboxing Durumlarından Dolayı Sınırlılıklar — 10 min
+- [x] 16.7 ArrayList Collection Initializers(Koleksiyon İlklendirici) — 05 min
 
 ## 17. Foreach İterasyonu (3)
-- [ ] 17.1 İterasyon Nedir? — 10 min
-- [ ] 17.2 İterasyon ile Döngü Arasındaki Fark Nedir? — 07 min
-- [ ] 17.3 Foreach İterasyonu Nasıl Kullanılır? — 07 min
+- [x] 17.1 İterasyon Nedir? — 10 min
+- [x] 17.2 İterasyon ile Döngü Arasındaki Fark Nedir? — 07 min
+- [x] 17.3 Foreach İterasyonu Nasıl Kullanılır? — 07 min
 
 ## 18. Hazır Sınıflar & Fonksiyonlar (18)
-- [ ] 18.1 C#’da Hazır Sınıflar ve Fonksiyonlar Nedir? — 04 min
-- [ ] 18.2 Matematik(Math) Sınıfı – Fonksiyonları
-- [ ] 18.3 ► Math Sınıfı – Abs Fonksiyonu — 03 min
-- [ ] 18.4 ► Math Sınıfı – Ceiling Fonksiyonu — 02 min
-- [ ] 18.5 ► Math Sınıfı – Floor Fonksiyonu — 02 min
-- [ ] 18.6 ► Math Sınıfı – Round Fonksiyonu — 02 min
-- [ ] 18.7 ► Math Sınıfı – Pow Fonksiyonu — 01 min
-- [ ] 18.8 ► Math Sınıfı – Sqrt Fonksiyonu — 01 min
-- [ ] 18.9 ► Math Sınıfı – Truncate Fonksiyonu — 01 min
-- [ ] 18.10 Tarih(DateTime) Yapısı – Fonksiyonları | Özellikleri
-- [ ] 18.11 ► DateTime – Now Özelliği — 01 min
-- [ ] 18.12 ► DateTime – Today Özelliği — 01 min
-- [ ] 18.13 ► DateTime – Compare Fonksiyonu — 03 min
-- [ ] 18.14 ► DateTime – Tarihsel Zamana Saat, Gün, Ay, Yıl Ekleyerek Sonucu Hesaplamak — 03 min
-- [ ] 18.15 ► TimeSpan Türü İle İki Tarih Farkının Karşılanması — 03 min
-- [ ] 18.16 Random Sınıfı
-- [ ] 18.17 ► Random Sınıfı – Next Fonksiyonu — 04 min
-- [ ] 18.18 ► Random Sınıfı – NextDouble Fonksiyonu — 01 min
+- [x] 18.1 C#’da Hazır Sınıflar ve Fonksiyonlar Nedir? — 04 min
+- [x] 18.2 Matematik(Math) Sınıfı – Fonksiyonları
+- [x] 18.3 ► Math Sınıfı – Abs Fonksiyonu — 03 min
+- [x] 18.4 ► Math Sınıfı – Ceiling Fonksiyonu — 02 min
+- [x] 18.5 ► Math Sınıfı – Floor Fonksiyonu — 02 min
+- [x] 18.6 ► Math Sınıfı – Round Fonksiyonu — 02 min
+- [x] 18.7 ► Math Sınıfı – Pow Fonksiyonu — 01 min
+- [x] 18.8 ► Math Sınıfı – Sqrt Fonksiyonu — 01 min
+- [x] 18.9 ► Math Sınıfı – Truncate Fonksiyonu — 01 min
+- [x] 18.10 Tarih(DateTime) Yapısı – Fonksiyonları | Özellikleri
+- [x] 18.11 ► DateTime – Now Özelliği — 01 min
+- [x] 18.12 ► DateTime – Today Özelliği — 01 min
+- [x] 18.13 ► DateTime – Compare Fonksiyonu — 03 min
+- [x] 18.14 ► DateTime – Tarihsel Zamana Saat, Gün, Ay, Yıl Ekleyerek Sonucu Hesaplamak — 03 min
+- [x] 18.15 ► TimeSpan Türü İle İki Tarih Farkının Karşılanması — 03 min
+- [x] 18.16 Random Sınıfı
+- [x] 18.17 ► Random Sınıfı – Next Fonksiyonu — 04 min
+- [x] 18.18 ► Random Sınıfı – NextDouble Fonksiyonu — 01 min
 
 ## 19. Metotlar (Functions) (22)
-- [ ] 19.1 Metot Nedir? Bir Programcı Gözünden Ne İşe Yarar? — 15 min
-- [ ] 19.2 İşlevsel Açıdan Metot Bize Ne Kazandırır? — 13 min
-- [ ] 19.3 Metot Anatomisi Nasıldır? Gelin Metot İmzasını İnceleyelim — 19 min
-- [ ] 19.4 İşlevine Göre Metot Türleri Nelerdir? — 06 min
-- [ ] 19.5 ► Geriye Değer Döndürmeyen Parametre Almayan Metot Türü — 06 min
-- [ ] 19.6 ► Geriye Değer Döndürmeyen Parametre Alan Metot Türü — 04 min
-- [ ] 19.7 ► Geriye Değer Döndüren Parametre Almayan Metot Türü — 11 min
-- [ ] 19.8 ► Geriye Değer Döndüren Parametre Alan Metot Türü — 05 min
+- [x] 19.1 Metot Nedir? Bir Programcı Gözünden Ne İşe Yarar? — 15 min
+- [x] 19.2 İşlevsel Açıdan Metot Bize Ne Kazandırır? — 13 min
+- [x] 19.3 Metot Anatomisi Nasıldır? Gelin Metot İmzasını İnceleyelim — 19 min
+- [x] 19.4 İşlevine Göre Metot Türleri Nelerdir? — 06 min
+- [x] 19.5 ► Geriye Değer Döndürmeyen Parametre Almayan Metot Türü — 06 min
+- [x] 19.6 ► Geriye Değer Döndürmeyen Parametre Alan Metot Türü — 04 min
+- [x] 19.7 ► Geriye Değer Döndüren Parametre Almayan Metot Türü — 11 min
+- [x] 19.8 ► Geriye Değer Döndüren Parametre Alan Metot Türü — 05 min
 - [ ] 19.9 Metodun Geriye Değer Döndürmesi Ne Demektir? — 25 min
 - [ ] 19.10 Metotlarda Optional Parameters(İsteğe Bağlı Parametreler) — 16 min
 - [ ] 19.11 ► Tanımlandığı Sınıf İçerisindeki Metotlar Tarafından Kullanımı — 11 min

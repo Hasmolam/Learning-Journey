@@ -6,7 +6,7 @@ Kısa rehber:
 - [x] — Tamamlandı
 
 ## Genel İlerleme
-- Toplam: 331 / 419 — ayrıntılı ders listesi ve checkbox’lar için bkz: `PROGRESS.md`
+- Toplam: 396 / 409 — ayrıntılı ders listesi ve checkbox’lar için bkz: `PROGRESS.md`
 
 ## Konu Bazlı Durum
 
@@ -24,13 +24,13 @@ Kısa rehber:
 | **Yardımcı Manevra Komutları** | [x] | 100% |
 | **Ekstra Bilgi** | [x] | 100% |
 | **Diziler (Arrays)** | [x] | 100% |
-| **String Tipi Analizi ve String Fonksiyonları** | [> ] | 60% |
-| **Dizilerde Verisel Performans** | [ ] | 0% |
-| **Regular Expressions (Düzenli İfadeler)** | [ ] | 0% |
-| **Koleksiyon Yapıları** | [ ] | 0% |
-| **Foreach İterasyonu** | [ ] | 0% |
-| **Hazır Sınıflar & Fonksiyonlar** | [ ] | 0% |
-| **Metotlar (Functions)** | [ ] | 0% |
+| **String Tipi Analizi ve String Fonksiyonları** | [x] | 100% |
+| **Dizilerde Verisel Performans** | [x] | 100% |
+| **Regular Expressions (Düzenli İfadeler)** | [x] | 100% |
+| **Koleksiyon Yapıları** | [x] | 100% |
+| **Foreach İterasyonu** | [x] | 100% |
+| **Hazır Sınıflar & Fonksiyonlar** | [x] | 100% |
+| **Metotlar (Functions)** | [> ] | 20% |
 | **Foreach İterasyonu** | [ ] | 0% |
 
 ## Kullanım
